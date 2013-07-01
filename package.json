@@ -1,0 +1,21 @@
+{
+  "author": "Cian Clarke <cian@cianclarke.com> (http://www.cianclarke.com)",
+  "name": "json2csv",
+  "description": "Simple node module for converting a json array [ {}, {} ] to CSV",
+  "version": "0.0.1",
+  "homepage": "github.com/cianclarke/json2csv",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cianclarke/json2csv.git"
+  },
+  "main": "./index.js",
+  "bin": "./index.js",
+  "engines": {
+    "node": "~0.6.2"
+  },
+  "scripts" : {
+    "test" : "node test/tests.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
