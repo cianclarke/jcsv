@@ -2,7 +2,7 @@
   "author": "Cian Clarke <cian@cianclarke.com> (http://www.cianclarke.com)",
   "name": "jcsv",
   "description": "Simple node module for converting a json array [ {}, {} ] to CSV",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "github.com/cianclarke/json2csv",
   "repository": {
     "type": "git",
